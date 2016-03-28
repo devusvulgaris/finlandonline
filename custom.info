@@ -1,9 +1,0 @@
-;$Id$
-
-name = Custom
-description = A custom module for finland online website customization.
-package = Drupal 7 Development
-core = 7.x
-files[] = custom.module
-
-;php = 5.2
