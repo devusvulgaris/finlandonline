@@ -1,0 +1,7 @@
+<?php
+// $Id$
+/** Function for adding own map markers to get locations module*/
+function custom_getlocations_markerdir() {
+$markers = drupal_get_path('module', 'custom') . '/mymarkers';
+return $markers;
+}
